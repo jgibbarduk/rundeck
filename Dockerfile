@@ -1,7 +1,7 @@
 # Dockerfile for rundeck
 # https://github.com/jjethwa/rundeck
 
-FROM debian:bullseye
+FROM bitnami/minideb:bullseye
 
 MAINTAINER Jordan Jethwa
 
